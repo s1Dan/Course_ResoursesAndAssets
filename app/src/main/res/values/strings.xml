@@ -1,0 +1,17 @@
+<resources>
+    
+    <string name="app_name">Android_Lab_2</string>
+
+    <string name="text">Hello world!</string>
+    <string name="bottomText">You choose: !</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="color">Color</string>
+    <string name="text_new">New</string>
+    <string name="text_old">Old</string>
+    <string name="exit">Exit</string>
+    <string name="textClock">TextClock</string>
+    <string name="newText">This is new hidden item</string>
+
+</resources>

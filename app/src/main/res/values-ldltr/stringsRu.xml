@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Андроид_Лаб_2</string>
+
+    <string name="text">Привет, мир!</string>
+    <string name="bottomText">Ваш выбор: !</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="blue">Синий</string>
+    <string name="color">Цвет</string>
+    <string name="text_new">Новый</string>
+    <string name="text_old">Старый</string>
+    <string name="exit">Выход</string>
+    <string name="textClock">TextClock</string>
+    <string name="newText">Это новый скрытый элемент</string>
+</resources>
